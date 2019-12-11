@@ -3,8 +3,7 @@
 This is a very simple responsive landing page with a video background made using HTML5, and CSS3.
 
 # Live Demo:
-www.jazdosanjh.com/responsive-video-landing-page
-
+https://ubden.github.io/demoVideolandingpage
 ## Built With
 
 * HTML5
